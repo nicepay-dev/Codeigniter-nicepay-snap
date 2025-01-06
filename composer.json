@@ -2,7 +2,7 @@
     "name": "nicepay/nicepay-codeigniter",
     "description": "CodeIgniter4 starter app",
     "license": "MIT",
-    "type": "project",
+    "type": "library",
     "homepage": "https://codeigniter.com",
     "support": {
         "forum": "https://forum.codeigniter.com/",
