@@ -11,8 +11,7 @@
     },
     "repositories": [
         {
-            "type": "vcs",
-            "url": "https://github.com/nicepay/nicepay-codeigniter"
+            "type": "vcs"
         }
     ],
     "require": {
