@@ -9,12 +9,6 @@
         "source": "https://github.com/codeigniter4/CodeIgniter4",
         "slack": "https://codeigniterchat.slack.com"
     },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/nicepay/nicepay-codeigniter"
-        }
-    ],
     "require": {
         "php": "^8.1",
         "codeigniter4/framework": "^4.0"
